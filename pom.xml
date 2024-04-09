@@ -7,7 +7,7 @@
 	<artifactId>ebook-spring-boot</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>E-book Spring Boot</name>
 	<description>Projeto desenvolvido no e-book Produtividade no Desenvolvimento de Aplicações Web Com Spring Boot.</description>
